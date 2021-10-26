@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=buenoperezj)
 
-Hi, I'm [Jorge Bueno Perez], Data Engineer - Europe Extended DevOps. I am based in Warsaw, Poland.
+Hi, I'm **Jorge Bueno Perez**, **Data Engineer - Europe Extended DevOps**. I am based in Warsaw, Poland.
 
 📈 My GitHub Stats
 
