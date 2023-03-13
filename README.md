@@ -6,5 +6,5 @@ Hi, I'm **Jorge Bueno Perez**, **Data Engineer - Europe Extended DevOps**. I am 
 
 ### 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=buenoperezj?orgs=procter-gamble&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=buenoperezj?orgs=procter-gamble" alt="abhisheknaiidu" />
 
